@@ -88,7 +88,7 @@ Don't worry about this library there is a lot of error checking that goes throug
 The only thing that this won't handle is detecting is the cortex pins are on output, so if you set the cortex pin on output<br>
 If you don't know what I mean, just to be safe flash the cortex with the minimal sketch so you don't damage the board<br>
 
-
+Any questions? Contact me at smerkousdavid@gmail.com
 
 # Pythonlibudoo-neo
 # Neo-gpio-python-library
